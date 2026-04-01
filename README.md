@@ -1,15 +1,5 @@
-# Multithreading in Java
-
-## 👨‍💻 Author
-
-**Arpit Choubey — SDET | QA | Automation Engineer**
-🔗 **LinkedIn** | **Medium**
-
-## ⭐ Support
-
-If this repository helps you, please **Star 🌟** it!
-
----
+# Parallel-Test-Execution-Framework-Java
+(Multithreading in Java)
 
 ## Overview
 
@@ -114,4 +104,13 @@ MultithreadingInJava/
 
 * Proper synchronization using `wait()`, `notify()`, `notifyAll()` or `Lock` API prevents race conditions.
 * Threads should be handled carefully to avoid deadlocks.
+
+  ## 👨‍💻 Author
+
+**Arpit Choubey — SDET | QA | Automation Engineer**
+🔗 **LinkedIn** | **Medium**
+
+## ⭐ Support
+
+If this repository helps you, please **Star 🌟** it!
 
